@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #Developed by AYOUB MANSOURI
+#Sun Jan 16 05:29:33 PM +01 2022
+
 
 
 git_init(){
